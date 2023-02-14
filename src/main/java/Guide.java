@@ -27,7 +27,7 @@ public class Guide {
     int id;
 
     /**
-     * This is a CONSTRUCTOR. Whenever we instantiate an object, a constructor is called.
+     * Thi is a CONSTRUCTOR. Whenever we instantiate an object, a constructor is called.
      * Instantiation is process of creating a new Object, which uses this Class as a blueprint for a real
      * entity in the computer's memory which we can manipulate during the execution of the program. Usually
      * a constructor is used to define an object's fields.
